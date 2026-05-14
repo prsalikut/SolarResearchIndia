@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+requests
+scikit-learn
+tensorflow
+statsmodels
+python-dateutil
+xgboost
+scipy
+tensorflow
+keras
